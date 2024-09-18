@@ -1,7 +1,7 @@
 package store
 
 import (
-	"accounts/pkg/sale"
+	"github.com/Bailey30/accounts/pkg/sale"
 	"log"
 
 	"fmt"

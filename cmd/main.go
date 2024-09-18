@@ -4,9 +4,9 @@ import (
 	"log"
 	"os"
 
-	"accounts/pkg/accounts"
-	"accounts/pkg/config"
-	"accounts/pkg/db"
+	"github.com/Bailey30/accounts/pkg/accounts"
+	"github.com/Bailey30/accounts/pkg/config"
+	"github.com/Bailey30/accounts/pkg/db"
 
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"

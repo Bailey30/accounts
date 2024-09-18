@@ -1,4 +1,4 @@
-module accounts
+module github.com/Bailey30/accounts
 
 go 1.21.6
 

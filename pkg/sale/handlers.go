@@ -1,10 +1,10 @@
 package sale
 
 import (
-	"accounts/pkg/config"
-	operation "accounts/pkg/config"
-	"accounts/pkg/input"
 	"fmt"
+	"github.com/Bailey30/accounts/pkg/config"
+	operation "github.com/Bailey30/accounts/pkg/config"
+	"github.com/Bailey30/accounts/pkg/input"
 	"time"
 )
 

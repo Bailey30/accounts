@@ -1,10 +1,10 @@
 package accounts
 
 import (
-	"accounts/pkg/config"
-	"accounts/pkg/db"
-	"accounts/pkg/sale"
-	"accounts/pkg/sale/store"
+	"github.com/Bailey30/accounts/pkg/config"
+	"github.com/Bailey30/accounts/pkg/db"
+	"github.com/Bailey30/accounts/pkg/sale"
+	"github.com/Bailey30/accounts/pkg/sale/store"
 )
 
 func EntityHandler(config *config.Config, database *db.Database) {
